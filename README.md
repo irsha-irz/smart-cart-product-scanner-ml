@@ -14,7 +14,6 @@ a. Python 3.10.0
 
      ```
      python -m venv venv
-
      ```
 
    - On macOS and Linux:
